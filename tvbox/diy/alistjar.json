@@ -1,0 +1,12 @@
+{
+  "vodPic": "http://192.168.31.12:9090/public/tvbox/diy/monkey.jpg",
+  "drives": [
+    {
+      "name": "小雅",
+      "search": true,
+      "searchable": true,
+      "server": "http://192.168.31.13:5678/"
+    }
+  ],
+  "danmu":true
+}
