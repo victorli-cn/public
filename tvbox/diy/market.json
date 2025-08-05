@@ -1,0 +1,136 @@
+[
+  {
+    "name": "推薦",
+    "list": [
+      {
+        "name": "手機-py",
+        "url": "http://www.btch.tk:9090/public/apk/mobile-python-arm64_v8a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "http://www.btch.tk:9090/public/apk/leanback-python-armeabi_v7a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "http://www.btch.tk:9090/public/apk/leanback-python-arm64_v8a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "正式版",
+    "list": [
+      {
+        "name": "手機-py",
+        "url": "http://www.btch.tk:9090/public/apk/mobile-arm64_v8a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "http://www.btch.tk:9090/public/apk/leanback-armeabi_v7a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "http://www.btch.tk:9090/public/apk/leanback-arm64_v8a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-2.8.9",
+        "url": "http://www.btch.tk:9090/public/apk/289/mobile-arm64_v8a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-2.8.9",
+        "url": "http://www.btch.tk:9090/public/apk/289/leanback-armeabi_v7a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-2.8.9",
+        "url": "http://www.btch.tk:9090/public/apk/289/leanback-arm64_v8a.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v8a"
+      },
+      {
+        "name": "大师兄影视-tv",
+        "url": "http://www.btch.tk:9090/public/apk/dsxtv1.0.8+1010.apk",
+        "icon": "http://www.btch.tk:9090/public/tvbox/diy/monkey.jpg",
+        "version": "v7a"
+      }
+    ]
+  },
+  {
+    "name": "內測版",
+    "list": [
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "4.x版",
+    "list": [
+      {
+        "name": "電視",
+        "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      }
+    ]
+  }
+]
