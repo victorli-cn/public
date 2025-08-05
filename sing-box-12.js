@@ -20,10 +20,10 @@ config.outbounds.map(i => {
     i.outbounds.push(...getTags(proxies))
   }
   if (['hk', 'hk-auto'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /娓瘄hk|hongkong|kong kong|馃嚟馃嚢/i))
+    i.outbounds.push(...getTags(proxies, /港|hk|hongkong|kong kong|🇭🇰/i))
   }
   if (['tw', 'tw-auto'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /鍙皘tw|taiwan|馃嚬馃嚰/i))
+    i.outbounds.push(...getTags(proxies, /台|tw|taiwan|🇹🇼/i))
   }
   if (['Ai', 'Ai-auto'].includes(i.tag)) {
     i.outbounds.push(...getTags(proxies, /Ai/i))
@@ -32,16 +32,16 @@ config.outbounds.map(i => {
     i.outbounds.push(...getTags(proxies, /Yt/i))
   }
   if (['jp', 'jp-auto'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /鏃ユ湰|jp|japan|馃嚡馃嚨/i))
+    i.outbounds.push(...getTags(proxies, /日本|jp|japan|🇯🇵/i))
   }
   if (['sg', 'sg-auto'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /^(?!.*(?:us)).*(鏂皘sg|singapore|馃嚫馃嚞)/i))
+    i.outbounds.push(...getTags(proxies, /^(?!.*(?:us)).*(新|sg|singapore|🇸🇬)/i))
   }
   if (['us', 'us-auto'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /缇巪us|unitedstates|united states|馃嚭馃嚫/i))
+    i.outbounds.push(...getTags(proxies, /美|us|unitedstates|united states|🇺🇸/i))
   }
   if (['au', 'au-auto'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /婢硘au|unitedstates|united states|馃嚘馃嚭/i))
+    i.outbounds.push(...getTags(proxies, /澳|au|unitedstates|united states|🇦🇺/i))
   }
 })
 
